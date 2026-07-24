@@ -29,7 +29,7 @@ Before running the application, make sure you have the following installed on yo
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
    cd YOUR_REPOSITORY_NAME
-or down load dj_mixerexperemtnal.py and place in a folder.
+or download dj_mixerexperemtnal.py and place in a folder.
 -----------------------------------------------------------------------------------------
 Install Required Dependencies:
 Install the necessary Python libraries using pip:
