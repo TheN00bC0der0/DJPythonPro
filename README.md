@@ -29,7 +29,7 @@ Before running the application, make sure you have the following installed on yo
    ```bash
    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
    cd YOUR_REPOSITORY_NAME
-or download dj_mixerexperemtnal.py and place in a folder.
+or download dj_mixerexperimental.py and place in a folder.
 -----------------------------------------------------------------------------------------
 Install Required Dependencies:
 Install the necessary Python libraries using pip:
@@ -59,11 +59,11 @@ Add the following lines to the .bat file:
 DOS
 @echo off
 echo Starting Python DJ Pro Workstation...
-python dj_mixerexperemtnal.py
+python dj_mixerexperimental.py
 pause
 Double-click run_dj.bat to start the program.
 
-(Alternatively, just run python dj_mixerexperemtnal.py in your Command Prompt).
+(Alternatively, just run python dj_mixerexperimental.py in your Command Prompt).
 
 4.
 
@@ -71,7 +71,7 @@ On macOS
 Open your Terminal, navigate to the project folder, and execute the script:
 
 Bash
-python3 dj_mixerexperemtnal.py
+python3 dj_mixerexperimental.py
 
 🎮 How to Use the App
 Main Mixer: Load your local audio folders into the library, assign tracks to your decks, and use the central controls to mix and blend your audio.
@@ -94,7 +94,7 @@ source dj_env/bin/activate
 Run code:
 python3 dj_mixer.py
 Experemental updates:
-python3 dj_mixerexperemtnal.py
+python3 dj_mixerexperimental.py
 
 6. keep a copy of Dj_mixer.py for back up if you would like to experiment with your station. 
 
