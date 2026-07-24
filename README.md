@@ -1,4 +1,3 @@
-Add files via upload
 # 🎧 Python DJ Pro Workstation
 
 A feature-rich, desktop DJ mixing application built with Python, featuring dual mixing decks, custom audio signal processing, live audio-reactive background visuals (raindrops and lightning), and a mobile-friendly web request server!
