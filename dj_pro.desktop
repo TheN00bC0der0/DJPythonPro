@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Python DJ Pro Workstation
+Comment=Launch the Python DJ Mixer
+Exec=/home/sambolinkyle5/dj_env/bin/python3 /home/sambolinkyle5/dj_mixerexperemtnal.py
+Path=/home/sambolinkyle5/
+Icon=
+Terminal=false
+Categories=AudioVideo;Audio;
